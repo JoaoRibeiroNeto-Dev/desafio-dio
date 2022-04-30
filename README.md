@@ -1,4 +1,4 @@
-# Guia de Estudos de Programação
+# Guia Básico de Estudos de Programação
 Guia para ajudar no estudo de Programação para Iniciantes
 
 ## Sites Úteis
